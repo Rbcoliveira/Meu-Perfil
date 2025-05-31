@@ -17,14 +17,10 @@ Este projeto é uma página de perfil simples e elegante, criada com **HTML e CS
 
 # ⚙️ Como usar
 - Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio
+git clone https://https://github.com/Rbcoliveira/Meu-Perfil
 
 - Acesse o projeto:
-cd nome-do-repositorio
-
-- Instale as dependências e execute: *[Se tiver setup:]*
-npm install
-npm start
+cd Meu-Perfil
 
 - Abra no navegador:
 http://localhost:3000
